@@ -7,3 +7,4 @@ This is an update written on VS Code
 Alou
 
 This has been written on a secondary branch
+Test Sync function
